@@ -1,0 +1,6 @@
+# README.md content here
+This is a Python Flask Web App project.
+
+To run the app:
+1. Install the required dependencies by running `pip install -r requirements.txt`
+2. Run the app by executing `python app.py`
